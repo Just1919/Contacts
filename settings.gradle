@@ -11,7 +11,6 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
-
 }
-rootProject.name = "@Contacts"
+rootProject.name = "ContactPro"
 include ':app'
